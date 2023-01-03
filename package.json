@@ -11,7 +11,7 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
-    "@nakamura196/iiif-tei": "file:../iiif-tei/nakamura196-iiif-tei-1.0.0.tgz",
+    "@nakamura196/iiif-tei": "^1.1.0",
     "sass": "^1.57.1",
     "vuetify": "^3.0.6"
   }
